@@ -1,5 +1,5 @@
 # Cosine_Jcard_Similarity
-A python script that find Cosine &amp; Jcard similarity amonth files in a given directory. It compile the result as CSV
+A python script that find Cosine &amp; Jcard similarity among files in a given directory. It compiles the result as CSV
 
 # Run Script
 Before running the script, install the packages listed in the source code
